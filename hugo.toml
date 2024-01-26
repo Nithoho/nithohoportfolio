@@ -1,4 +1,4 @@
-baseURL = '/'
+baseURL = 'https://nithoho.github.io/nithohoportfolio/'
 languageCode = 'en-us'
 title = 'Thomas Nick'
 theme = 'profile'
