@@ -1,4 +1,4 @@
-window.addEventListener('click', function() {
+window.addEventListener('mousedown', function() {
   if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches) {
     // Dark mode
     document.getElementById('light-logo').style.display = 'none';
