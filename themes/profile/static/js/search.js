@@ -1,12 +1,12 @@
-window.addEventListener('mousedown', function() {
+window.addEventListener('change', function() {
   if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches) {
     // Dark mode
-    document.getElementById('light-logo').style.display = 'none';
-    document.getElementById('dark-logo').style.display = 'block';
-  } else {
-    // Light mode
     document.getElementById('light-logo').style.display = 'block';
     document.getElementById('dark-logo').style.display = 'none';
+  } else {
+    // Light mode
+    document.getElementById('light-logo').style.display = 'none';
+    document.getElementById('dark-logo').style.display = 'block';
   }
 });
 
