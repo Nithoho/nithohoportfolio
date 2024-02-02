@@ -1,7 +1,7 @@
 baseURL: "https://nithoho.github.io/nithohoportfolio/"
 languageCode: "en-us"
 title: "Hugo Profile"
-theme: hugo-profile
+theme: profile
 
 outputs:
   home:
