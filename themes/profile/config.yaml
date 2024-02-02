@@ -56,7 +56,7 @@ params:
   title: "Hugo Profile"
   description: Text about my cool site
   staticPath: "https://nithoho.github.io/nithohoportfolio/"
-  favicon: "/Logo.png"
+  favicon: "Logo.png"
 
   # Whether to serve bootstrap css and js files from CDN or not. Can be set to true, "css" or "js" to choose between
   # serving both, only the css, or only the js files through the CDN. Any other value will make so that CDN is not used.
@@ -127,7 +127,8 @@ params:
     title: "Nick."
     subtitle: "I'm a machine learning engineer."
     content: "A hardworking and passionate tech-enthusiast with a focus on computer vision and deep learning."
-    image: /Logo.png
+    image: Logo_light.png
+    image_light: Logo_dark.png
     bottomImage:
       enable: true
     roundImage: true # Make hero image circular | default false
