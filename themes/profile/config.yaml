@@ -176,16 +176,16 @@ params:
     items:
       - job: "Working student"
         company: "Deggendorf Institute of Technology"
-        companyUrl: "https://example.com"
+        companyUrl: "https://th-deg.de/en"
         date: "Feb 2022 - Apr 2022"
         featuredLink:
           enable: true
           name: "View the project"
-          url: "https://example.com"
+          url: "https://th-deg.de/en"
         content: "My job was evaluating German political parties with my self-developed program to find their stance towards energy safety, working with the twitter API to analyse German party tweets"
       - job: "Software Developer"
         company: "CarrerCaptain"
-        companyUrl: "https://example.com"
+        companyUrl: "https://career-captain.de/"
         date: "Sep 2022 - Feb 2023"
         featuredLink:
           enable: true
