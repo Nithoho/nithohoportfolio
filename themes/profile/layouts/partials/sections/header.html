@@ -6,8 +6,14 @@
     switch (localStorageValue) {
         case "dark":
             document.body.classList.add('dark');
+            document.getElementById('light-logo').style.display = 'block';
+            document.getElementById('dark-logo').style.display = 'none';
+  
             break;
         case "light":
+    // Light mode
+            document.getElementById('light-logo').style.display = 'none';
+            document.getElementById('dark-logo').style.display = 'block';
             document.body.classList.remove('dark');
             break;
         default:

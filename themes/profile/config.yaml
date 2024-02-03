@@ -265,45 +265,47 @@ params:
         image: robot.jpg
         featured:
           name: Demo
-          link: https://hugo-profile.netlify.app
+          link: https://example.com
         badges:
-          - "Hugo"
-          - "Bootstrap"
-          - "Javascript"
+          - "Python"
+          - "YOLO"
+          - "Jetbot"
         links:
           - icon: fa fa-envelope
-            url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f
+            url: https://nithoho.github.io/nithohoportfolio/
           - icon: fab fa-github
-            url: https://github.com/gurusabarish/hugo-profile
+            url: https://nithoho.github.io/nithohoportfolio/
           - icon: fab fa-twitter
-            url: https://twitter.com/intent/tweet?text=Check+it+out:&url=https%3A%2F%2Fgithub.com%2Fgurusabarish%2Fhugo-profile
+            url: https://nithoho.github.io/nithohoportfolio/
 
       - title: Connect 4 with AI
         content: Using state of the art deployment methods and writing software tests with Selenium. Achieved universal compatibility with Docker. Included AI vs AI and Player vs AI mode
         image: c4.png
         featured:
           name: Demo
-          link: https://django-converter.herokuapp.com
+          link: https://nithoho.github.io/nithohoportfolio/
         badges:
-          - "Django"
-          - "Bootstrap"
+          - "Selenium"
+          - "Python"
+          - "Docker"
+          - "Flask"
         links:
           - icon: fab fa-github
-            url: https://github.com/gurusabarish/converter
+            url: https://nithoho.github.io/nithohoportfolio/
 
       - title: FlavorAI
         content: Me and my fellow students developed a Website that uses a LLM to generate new recipes. We used Flask and Docker to deploy the website. We used an API to generate images of the recipes.
         image: flavorai.png
         featured:
           name: Demo V2
-          link: https://hugo-profile-2.netlify.app
+          link: https://example.com
         badges:
-          - "Hugo"
+          - "GPT 3.5"
           - "Bootstrap"
           - "Javascript"
         links:
           - icon: fab fa-github
-            url: https://github.com/gurusabarish/HugoProfileV2
+            url: https://example.com
 
   #Contact
   contact:
