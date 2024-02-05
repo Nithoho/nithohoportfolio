@@ -54,7 +54,7 @@ Menus:
 
 params:
   title: "Hugo Profile"
-  description: Text about my cool site
+  description: My personal portfolio
   staticPath: "/nithohoportfolio/"
   # staticPath: "https://nithoho.github.io/nithohoportfolio/"
   favicon: "Logo.png"
