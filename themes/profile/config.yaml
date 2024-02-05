@@ -55,7 +55,8 @@ Menus:
 params:
   title: "Hugo Profile"
   description: Text about my cool site
-  staticPath: "https://nithoho.github.io/nithohoportfolio/"
+  staticPath: "/nithohoportfolio/"
+  # staticPath: "https://nithoho.github.io/nithohoportfolio/"
   favicon: "Logo.png"
 
   # Whether to serve bootstrap css and js files from CDN or not. Can be set to true, "css" or "js" to choose between
@@ -135,7 +136,7 @@ params:
     button:
       enable: true
       name: "Resume"
-      url: "#"
+      url: "files/Nick_Thomas_Resume.pdf"
       download: true
       newPage: false
     socialLinks:
@@ -151,7 +152,7 @@ params:
   about:
     enable: true
     title: "About Me"
-    image: "me.png"
+    image: "me.jpg"
     content: |-
       I'm Nick, a passionate and forward-thinking student based in Germany, currently pursuing a Bachelor's degree in Artificial Intelligence. My academic journey is fueled by a deep fascination for the world of AI, where creativity meets cutting-edge technology.
 
@@ -168,6 +169,9 @@ params:
         - "Tensorflow"
         - "Azure ML Studio"
         - "SQL"
+        - "C#"
+        - "Java"
+        - "Docker"
 
   # Experience
   experience:
@@ -189,7 +193,7 @@ params:
         date: "Sep 2022 - Feb 2023"
         featuredLink:
           enable: true
-          url: "https://example.com"
+          url: "https://career-captain.de/"
         info:
           enable: true
           content: I worked as a software developer for more than one year at CareerCaptain.
@@ -226,7 +230,6 @@ params:
           name: "Nellenburg Gymnasium"
           url: "https://example.org"
         date: "2019"
-        GPA: "4.2 out of 5.0"
         content: |-
           I grew up in a small town in Germany and attended Nellenburg Gymnasium. I was a highly interested in Computer Science and took courses that gave me basic programming skills.
         featuredLink:
@@ -247,12 +250,12 @@ params:
         image: Logo.png
       - title: Participanted in a hackathon
         content: I spent a weekend developing a project for a hackathon and made plenty of connections.
-        url: "https://github.com/gurusabarish/hugo-profile"
+        url: "https://www.bayerwald-hackathon.de/"
         image: hackathon.png
       - title: Defender Game
         content: I programmed my very own game in Java from scratch. It was a great learning experience.
-      - title: Google Summer of Code
-        content: Contributed to a open source project.
+      - title: Unity Game
+        content: I developed a game in Unity that received a top grade in my game development class and built it for PC and Mobile. I was asked to publish to the play store it after my presentation.
         url: https://example.com
 
   # projects
@@ -265,7 +268,7 @@ params:
         image: robot.jpg
         featured:
           name: Demo
-          link: https://example.com
+          link: https://github.com/Nithoho
         badges:
           - "Python"
           - "YOLO"
@@ -298,14 +301,14 @@ params:
         image: flavorai.png
         featured:
           name: Demo V2
-          link: https://example.com
+          link: https://github.com/Nithoho
         badges:
           - "GPT 3.5"
           - "Bootstrap"
           - "Javascript"
         links:
           - icon: fab fa-github
-            url: https://example.com
+            url: https://github.com/Nithoho
 
   #Contact
   contact:
