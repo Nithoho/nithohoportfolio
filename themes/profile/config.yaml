@@ -126,7 +126,7 @@ params:
     enable: true
     intro: "Hi, my name is"
     title: "Nick."
-    subtitle: "I'm a machine learning engineer."
+    subtitle: "I'm an Artificial Intelligence student."
     content: "A hardworking and passionate tech-enthusiast with a focus on computer vision and deep learning."
     image: Logo_light.png
     image_light: Logo_dark.png
@@ -223,7 +223,9 @@ params:
         date: "2020 - 2024"
         GPA: "4.0 out of 4.5"
         content: |-
-          Extracurricular Activities
+          I am currently pursuing a Bachelor's degree in Artificial Intelligence at Deggendorf Institute of Technology. I have taken courses in Machine Learning, Deep Learning, and Natural Language Processing. I have also been involved in various projects that have helped me gain practical experience in the field as well as an internship at CareerCaptain.
+
+          Extracurricular Activities:
             - Part of the "UnitedAI" club
       - title: "High School"
         school:
@@ -255,7 +257,7 @@ params:
       - title: Defender Game
         content: I programmed my very own game in Java from scratch. It was a great learning experience.
       - title: Unity Game
-        content: I developed a game in Unity that received a top grade in my game development class and built it for PC and Mobile. I was asked to publish to the play store it after my presentation.
+        content: I developed a game in Unity that received a top grade in my game development class and built it for PC and Mobile. I was asked to publish it to the play store after my presentation.
         url: https://example.com
 
   # projects
